@@ -5,11 +5,11 @@
 ## 技术栈
 ------------------------
 #### vue2 + vuex + vue-router + webpack + ES6 + axios
-vue：Vue是一套用于构建用户界面的渐进式框架。
-vuex：Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。
-vue-router：Vue Router 是 Vue.js 官方的路由管理器。
-webpack：前端模块打包器。
-less：Less 是一门 CSS 预处理语言，它扩展了 CSS 语言，增加了变量、Mixin、函数等特性，使 CSS 更易维护和扩展。
+- vue：Vue是一套用于构建用户界面的渐进式框架。
+- vuex：Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。
+- vue-router：Vue Router 是 Vue.js 官方的路由管理器。
+- webpack：前端模块打包器。
+- less：Less 是一门 CSS 预处理语言，它扩展了 CSS 语言，增加了变量、Mixin、函数等特性，使 CSS 更易维护和扩展。
 ### 说明
 ------------------------
 - 如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
