@@ -16,6 +16,7 @@
 ------------------------
 ## 项目布局
 .……
+```
 ├── node_modules                 // 安装的包
 ├── public                       // 静态资源托管目录
 ├── ├── favicon.ico  
@@ -40,4 +41,5 @@
 ├── .eslintrc.js                 // eslint
 ├── .gitignore                   // git的忽略设置
 ├── babel.config                 // babel配置文件
+```
 …………
