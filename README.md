@@ -44,4 +44,3 @@
 ├── .gitignore                   // git的忽略设置
 ├── babel.config                 // babel配置文件
 ```
-…………
