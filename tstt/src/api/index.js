@@ -1,7 +1,6 @@
 // 统一封装接口方法
 // 每个方法负责请求一个url地址，逻辑页面导入这个接口方法就能发送请求
 // 好处：请求url路径可以再这里统一管理
-
 import request from '@/utils/request.js'
 // import { getToken } from '@/utils/token.js'
 // import axios from '@/utils/request.js'
